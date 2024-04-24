@@ -1,7 +1,7 @@
 
 # Text Summarization with T5
 
-This Python script demonstrates how to perform text summarization using a pre-trained T5 model from the Hugging Face Transformers library.
+This Python script demonstrates how to perform text summarization using a pre-trained T5-large model. The script utilizes the T5-large model through the Hugging Face Transformers library.
 
 ## Usage
 
