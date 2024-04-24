@@ -12,7 +12,7 @@ This Python script demonstrates how to perform text summarization using a pre-tr
 3. Run the script:
 
 ```bash
-python text_summarization.py
+python summarizer.py
 ```
 
 ## Requirements
